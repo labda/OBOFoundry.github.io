@@ -1,11 +1,11 @@
 ---
-layout: ontology_detail
+layout: A formal representation of drug-drug interactions knowledge. ontology_detail
 id: dinto
-title: The Drug-drug Interaction Ontology
+title: The Drug-drug Interactions Ontology
 contact:
   email: Maria Herrero
   label: mhzazo@pa.uc3m.es
-homepage: https://code.google.com/p/dinto/
+homepage: https://github.com/labda/DINTO
 products:
   - id: dinto.owl
 ---
